@@ -3,6 +3,10 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+
+# Personal Super Productivity file for development, do not commit
+file.json
+
 # C extensions
 *.so
 
