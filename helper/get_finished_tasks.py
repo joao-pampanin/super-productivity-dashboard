@@ -1,6 +1,7 @@
 """Helper function to extract finished tasks from a JSON file and return them as a pandas DataFrame."""
 
 import json
+
 import pandas as pd
 
 

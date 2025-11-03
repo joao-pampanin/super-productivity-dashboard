@@ -1,6 +1,7 @@
 """Helper function to extract project data from a Super Productivity JSON file."""
 
 import json
+
 import pandas as pd
 
 
